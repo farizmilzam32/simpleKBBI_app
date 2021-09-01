@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+KKBI App that search meaning of word using API(https://kbbi-api-amm.herokuapp.com/).
+
+Note : Not every word come out so this is still in progress. 
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
